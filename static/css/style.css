@@ -1,0 +1,8 @@
+.jumbotron {
+    background-image: url("../images/bact.jpg");
+    background-size: cover;
+  }
+
+body {
+    color:red;
+}

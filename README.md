@@ -1,3 +1,3 @@
-# Plotly
-![](static/images/pic.PNG)
+# Plotly: Belly Button Biology
+![](static/images/snap.PNG)
 [link to website](https://sktwelve.github.io/Plotly/ "website")
